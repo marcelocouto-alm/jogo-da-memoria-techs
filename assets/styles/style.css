@@ -104,3 +104,28 @@ body {
     grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
     gap: 1rem
 }
+
+/* Media query */
+
+@media only screen and (max-width : 480px) {
+    
+    .card {
+        width: 4rem;
+        height: 4rem;
+    }
+    
+    .icon {
+        width:3rem;
+        height: 3rem;
+        max-width: 3rem;
+        max-height: 3rem;
+    }
+
+    #gameOver {
+        font-size: 1.2rem;
+    }
+    
+    #restart {
+        font-size: 0.9rem;
+    }
+}
