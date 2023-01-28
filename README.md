@@ -3,7 +3,7 @@
 ## Sobre o projeto
 https://memoriatechs.web.app
  
-Jogo da memória com a temática tech.
+Esse projeto é um Jogo da Memória com a temática tech.
 #
 
 ## Tecnologias utilizadas
